@@ -5,6 +5,50 @@
     font-family: Arial, sans-serif;
 }
 
-h1 {
+.titulo {
+    color: #CE0505;
+    font-weight: bold;
+    padding-top: 150px;
+    font-size: 60px;
+}
+
+.subtitulo {
+    color: #CE0505;
+}
+
+.email {
+    margin: 30px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.email img {
+    width: 20px; 
+    height: 20px;
+    margin-right: 10px; 
+}
+
+.email input {
+    border: none;
+    outline: none;
+    width: 100%;
+    align-items: ;
+}
+
+.senha {
+    margin: 30px;
+}
+
+.cadastre-se {
     color: red;
 }
+
+.logo {
+    width: 600px;
+}
+
